@@ -15,5 +15,5 @@ $ python3 gen_oekaki.py --img ./image/nobunaga.gif
 ![output_image](./image/nobunaga_enlarge.gif, "problem image")
 
 - 200x200 sample, from [rakugaki.com](http://rakugakiicon.com/)
-![original_image](/image/doctor.png, "original image")
+![original_image](https://github.com/hageShogun/oekakiLogic/blob/master/image/doctor.png, "original image")
 ![output_image](/image/doctor_enlarge.gif, "problem image")
